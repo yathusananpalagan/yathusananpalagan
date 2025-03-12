@@ -25,15 +25,18 @@
 
 ## 👨‍💻 Cybersecurity Projects 
 
-
 <!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) Like that you can add Projects-->
+  
+<b> Red Team Toolkit </b>
+- [Keylogger](https:github.com)
+
 
 ## 📄 Certification 
 
 ## 🤳 Connect with me
 
-[![Socials](https://skillicons.dev/icons?i=linkedin)][LinkedIn]
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)][LinkedIn]
 
 
 <!-- Links to Social Media -->
