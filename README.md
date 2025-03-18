@@ -13,23 +13,62 @@
 ### Languages
 <img src="https://skillicons.dev/icons?i=py,java,cs,html,css" />
 
+---
+
 ### Tools I use for General Purposes
 <img src="https://skillicons.dev/icons?i=git,github,bash,powershell,sublime,godot,unity,eclipse,visualstudio,vscode" />
+
+---
 
 ### Homelab Services I use
 <img src="https://skillicons.dev/icons?i=cloudflare,docker,grafana"/>
 
+---
+
 ### Operating Systems I Use
 <img src="https://skillicons.dev/icons?i=windows,linux,debian,kali,ubuntu" />
 
+---
 
 ## 👨‍💻 Cybersecurity Projects 
 
 <!--- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice) Like that you can add Projects-->
   
-<b> Red Team Toolkit </b>
-- [Keylogger](https://github.com/yathusananpalagan/keylogger)
+### **🔴Red Team Toolkit** 
+A collection of tools designed for penetration testing, vulnerability assessments, and ethical hacking.
+<details>
+  <summary> 
+    <b>
+      <a href="https://github.com/yathusananpalagan/keylogger"> Keylogger
+    </b>
+  </summary>
+  A tool that records keystrokes on a system for analysis and testing. It can be used for security testing to evaluate potential vulnerabilities in a system's input handling.
+</details>
+        
+---
+  
+### **🔒Cryptography**
+A suite of cryptographic tools for encryption, decryption, and cipher analysis. Useful for security experts and enthusiasts exploring cryptography algorithms.
+<details>
+  <summary> 
+    <b>
+      <a href="#"> Password Analyzer           
+    </b>
+  </summary>
+  A tool that evaluates the strength of passwords by analyzing their complexity and vulnerability to common attacks such as brute force or dictionary attacks.
+</details>
+        
+<details>
+  <summary> 
+    <b>
+      <a href="#"> Caesar Decoder         
+    </b>
+  </summary>
+  A simple tool that decodes Caesar ciphers. It allows you to encrypt and decrypt messages by shifting characters based on a defined key.
+</details>
+        
+---
 
 
 ## 📄 Certification 
