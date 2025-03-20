@@ -11,22 +11,22 @@
 
 ## 🛠 Languages, Tools, Homelab, OS
 ### Languages
-<img src="https://skillicons.dev/icons?i=py,java,cs,html,css" />
+[![General Purpose](https://skillicons.dev/icons?i=py,java,cs,html,css)](https://skillicons.dev)
 
 ---
 
 ### Tools I use for General Purposes
-<img src="https://skillicons.dev/icons?i=git,github,bash,powershell,sublime,godot,unity,eclipse,visualstudio,vscode" />
+[![Languages](https://skillicons.dev/icons?i=git,github,bash,powershell,sublime,godot,unity,eclipse,visualstudio,vscode)](https://skillicons.dev)
 
 ---
 
 ### Homelab Services I use
-<img src="https://skillicons.dev/icons?i=cloudflare,docker,grafana"/>
+[![Homelab](https://skillicons.dev/icons?i=cloudflare,docker,grafana)](https://skillicons.dev)
 
 ---
 
 ### Operating Systems I Use
-<img src="https://skillicons.dev/icons?i=windows,linux,debian,kali,ubuntu" />
+[![OS](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali)](https://skillicons.dev)
 
 ---
 
