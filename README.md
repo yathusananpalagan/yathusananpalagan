@@ -53,10 +53,10 @@ A suite of cryptographic tools for encryption, decryption, and cipher analysis. 
 <details>
   <summary> 
     <b>
-      <a href="#"> Password Analyzer           
+      <a href="#"> Password Validator and Generator          
     </b>
   </summary>
-  A tool that evaluates the strength of passwords by analyzing their complexity and vulnerability to common attacks such as brute force or dictionary attacks.
+  A utility that checks the strength of passwords based on length, character variety, and resistance to common attack methods, while also generating secure, customizable passwords to enhance user security.
 </details>
         
 <details>
