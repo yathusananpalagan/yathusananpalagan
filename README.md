@@ -53,7 +53,7 @@ A suite of cryptographic tools for encryption, decryption, and cipher analysis. 
 <details>
   <summary> 
     <b>
-      <a href="#"> Password Validator and Generator          
+      <a href="https://github.com/yathusananpalagan/password-validator-generator"> Password Validator and Generator          
     </b>
   </summary>
   A utility that checks the strength of passwords based on length, character variety, and resistance to common attack methods, while also generating secure, customizable passwords to enhance user security.
