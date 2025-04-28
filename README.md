@@ -77,7 +77,8 @@ A suite of cryptographic tools for encryption, decryption, and cipher analysis. 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)][LinkedIn]
 
-
+## LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/YathusanAnpalagan?theme=dark&font=Kaisei%20HarunoUmi&ext=heatmap)
 <!-- Links to Social Media -->
 
 [LinkedIn]: https://www.linkedin.com/in/yathusan-anpalagan-805957353/
