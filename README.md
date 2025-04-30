@@ -62,7 +62,7 @@ A suite of cryptographic tools for encryption, decryption, and cipher analysis. 
 <details>
   <summary> 
     <b>
-      <a href="#"> Encrypt and Decrypt Tool         
+      <a href="https://github.com/yathusananpalagan/encrypt-decrypt-tool"> Encrypt and Decrypt Tool         
     </b>
   </summary>
   A simple GUI application for encrypting and decrypting text using shift-based ciphers. Supports both numeric and text-based shifts, with built-in history tracking, clipboard support, and export to file features.
